@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hey, I’m David
 
-<!--
-**David-Feldt/David-Feldt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Mechatronics Engineer from Waterloo, building cool stuff at the intersection of hardware, software, and AI.
 
-Here are some ideas to get you started:
+### 🚀 What I'm Into
+- Robotics & Embedded Systems  
+- AI-powered tools & automation  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech I Use
+`C/C++` `Python` `JavaScript`
+
+### 📌 Projects
+- DIY robots, smart devices, and other side quests  
+
+### 🌱 Always learning, always building.
+
+Let’s connect → [LinkedIn](https://www.linkedin.com/in/davidsfeldt/) | [Twitter](https://x.com/davidfeldt)
+
+---
+_“Build what you can't not build.”_
