@@ -17,4 +17,4 @@ I'm a Mechatronics Engineer from Waterloo, building cool stuff at the intersecti
 Let’s connect → [LinkedIn](https://www.linkedin.com/in/davidsfeldt/) | [Twitter](https://x.com/davidfeldt)
 
 ---
-_“Build what you can't not build.”_
+_“Prove what's Possible”_
