@@ -1,6 +1,6 @@
 # 👋 Hey, I’m David
 
-I'm a Mechatronics Engineer from Waterloo, building cool stuff at the intersection of hardware, software, and AI.
+I like building cool stuff at the intersection of hardware and AI to improve the human condition.
 
 ### 🚀 What I'm Into
 - Robotics & Embedded Systems  
